@@ -10,6 +10,7 @@ This is a personal repository where I document my journey of learning Artificial
 
 | Project | Description | Link |
 |--------|-------------|------|
+| ✅ Amaranth Website | A simple Amaranth website as my very 1st Project | [View Project](./Amaranth-Website)
 | ✅ Digital Clock | A simple GUI digital clock using Python and Tkinter | [View Project](./DigitalClock)
 
 ---
