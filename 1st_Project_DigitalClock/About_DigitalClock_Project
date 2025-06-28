@@ -1,0 +1,24 @@
+# 🕒 Digital Clock – Python Project
+
+This is a simple **Digital Clock GUI application** created using **Python and Tkinter**.  
+It displays the current time in HH:MM:SS format and updates every second.
+
+---
+
+## 📸 Preview
+
+![Digital Clock Screenshot](screenshot.png)
+
+---
+
+## 🔧 Technologies Used
+- Python
+- Tkinter (Python's built-in GUI library)
+- time module
+
+---
+
+## 🚀 How to Run
+
+```bash
+python digital_clock.py
