@@ -5,6 +5,7 @@ from datetime import datetime
 
 # Create the main window
 root = tk.Tk()
+
 root.geometry("600x300")
 root.configure(bg="#1E1E1E")  # dark background
 root.resizable(0, 0)
@@ -14,7 +15,7 @@ title_label = tk.Label(root, text="Digital Clock", font=('Segoe UI', 20, 'bold')
 title_label.pack(pady=(3, 5)) 
 
 # Define the function to update time
-def update_time(): 
+def update_time():
     current_time = strftime('%I:%M:%S %p').lower()  # Format time as: 01:23:45 pm
     time_label.config(text=current_time) 
 
