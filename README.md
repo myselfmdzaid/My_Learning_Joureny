@@ -21,14 +21,14 @@ This is a personal repository where I document my journey of learning Artificial
 - HTML CSS JS
 - Python
 - NumPy
-- Python DigitalClock Project
+- Pandas
 
 ---
 
 ## 🧠 What I am doing?
-- Pandas
 - Matplotlib
 - Seaborn
+- Tensorflow
 
 ---
 
